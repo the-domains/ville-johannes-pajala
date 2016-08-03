@@ -1,4 +1,3 @@
-layout_spectrum: 0.826624329900369
 typography_spectrum: 0.89287323015742
 color:
   brandStrength: 0.6382027673535049
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.826624329900369
 name: Ville Johannes Pajala
 title: Ville Johannes Pajala
+description: 'Memories, Dreams, Reflections'
