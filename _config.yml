@@ -6,9 +6,10 @@ color:
   saturation: 0.35477061686106026
   rhythmicContrast: 0.7133600788656622
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Ville Johannes Pajala
+title: Ville Johannes Pajala
