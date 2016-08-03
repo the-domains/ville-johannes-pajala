@@ -1,4 +1,4 @@
-typography_spectrum: 0.9507282783742994
+typography_spectrum: 0.47176541946828365
 color:
   brandStrength: 0.4736523702740669
   lightness: 0.1362778665497899
@@ -10,7 +10,7 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.3570653162896633
+layout_spectrum: 0.942954286467284
 author:
   name: Ville Johannes Pajala
   email: valoraami@gmail.com
