@@ -1,16 +1,16 @@
-typography_spectrum: 0.47176541946828365
+typography_spectrum: 0.008299479261040688
 color:
-  brandStrength: 0.4736523702740669
-  lightness: 0.1362778665497899
-  saturation: 0.19101816508919
-  rhythmicContrast: 0.9391752472147346
+  brandStrength: 0.465345069533214
+  lightness: 0.938807274447754
+  saturation: 0.6378710330463946
+  rhythmicContrast: 0.9310331302694976
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.942954286467284
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+layout_spectrum: 0.28119745408184826
 author:
   name: Ville Johannes Pajala
   email: valoraami@gmail.com
